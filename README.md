@@ -38,5 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # DemoNextJS
 >>>>>>> 45acf3e20bca679ac22f60534d4ad5a4e7cf0844
-![Screenshot 1](assets/screenshots/screenshot1.png)
+<!-- ![Screenshot 1](assets/screenshots/screenshot1.png) -->
 ![Screenshot 2](assets/screenshots/screenshot2.png)
